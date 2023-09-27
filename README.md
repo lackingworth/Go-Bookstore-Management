@@ -4,7 +4,7 @@ Located on port 9010
 
 Handles connections with database (MySQL)
 
-Viable Operations with db (requests): 
+Viable operations with db (requests): 
 ```
 /book/ - Create new book entry in db (Method: POST)
 ```
